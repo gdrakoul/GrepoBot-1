@@ -1,7 +1,7 @@
 // ==UserScript==
 
-// @name         GrepoBot
-// @author       xadam1, rubensei, kevenvz & grepobot
+// @name         test
+// @author       xadam1, edit some thing gdrakoul
 // @description  Grepolis automated bot, which helps you with some stuff!
 
 // @include      http://*.grepolis.com/game/*
